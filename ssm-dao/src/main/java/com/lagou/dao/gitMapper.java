@@ -6,14 +6,8 @@ public interface gitMapper {
     public void update();
     
     /*
-    111
+   555
     */
 
-    /*11
-    332
-     */
 
-    /*
-    2222
-     */
 }
