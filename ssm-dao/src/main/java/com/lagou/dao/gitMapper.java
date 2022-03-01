@@ -1,7 +1,7 @@
 package com.lagou.dao;
 
 public interface gitMapper {
-    public void add();
+    public void add(15151);
 
     public void update();
     
